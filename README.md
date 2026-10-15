@@ -2,6 +2,8 @@
 
 **AudioMemes is like Tenor, but for audio memes instead.** It's a platform concept focused on discovering, sharing, and playing funny audio clips—bringing the quick, searchable meme experience people know from GIF platforms to sound.
 
+> **Testing status:** The Android app is currently in **closed testing on Google Play**. Access is limited to approved testers.
+
 This repository is the **public project showcase** for AudioMemes and its related ecosystem. The production application's source code is maintained privately.
 
 ## The AudioMemes ecosystem
