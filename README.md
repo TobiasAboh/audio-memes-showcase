@@ -4,6 +4,14 @@
 
 > **Testing status:** The Android app is currently in **closed testing on Google Play**. Access is limited to approved testers.
 
+## Try AudioMemes
+
+Interested in testing the Android app? **[Register to become an AudioMemes tester](https://forms.gle/u4C2mkCg7CzPj5Wf6)**. I'll add approved testers to the testing programme and share the instructions for opting in.
+
+Already added to the tester list? [Open AudioMemes on Google Play](https://play.google.com/store/apps/details?id=com.tobias.audio_memes).
+
+*Submitting the form does not grant immediate access. You'll need to be added to the tester list and opt in to the closed test before installing.*
+
 This repository is the **public project showcase** for AudioMemes and its related ecosystem. The production application's source code is maintained privately.
 
 ## The AudioMemes ecosystem
@@ -39,6 +47,8 @@ This repository is intended to document the product and its architecture for por
 ## Links
 
 - **Project showcase:** [audio-memes-showcase](https://github.com/TobiasAboh/audio-memes-showcase)
+- **Tester registration:** [Join the AudioMemes closed test](https://forms.gle/u4C2mkCg7CzPj5Wf6)
+- **Google Play listing:** [AudioMemes on Google Play](https://play.google.com/store/apps/details?id=com.tobias.audio_memes)
 - **Discord bot invite:** [Add AudioMemes to your server](https://discord.com/oauth2/authorize?client_id=1558771955774132315)
 
 ---
